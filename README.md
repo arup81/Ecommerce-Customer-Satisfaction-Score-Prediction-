@@ -1,2 +1,2 @@
 # Ecommerce-Customer-Satisfaction-Score-Prediction-
-CSAT score prediction using Artificial Neural Network 
+CSAT score prediction using Artificial Neural Network (ANN)
